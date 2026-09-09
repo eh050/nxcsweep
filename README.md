@@ -1,6 +1,6 @@
 ## Install
 ```bash
-curl -sSL https://raw.githubusercontent.com/eh050/nxcsweep/main/install.sh | bash
+curl -sSL https://raw.githubusercontent.com/eh050/nxcsweep/main/setup.sh | bash
 ```
 
 Verify:
